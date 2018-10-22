@@ -4,4 +4,6 @@ git is a free software
 iwiiwd
 wda:w:
 >>>>>>> issue_102
+<<<<<<< HEAD
 someday
+
